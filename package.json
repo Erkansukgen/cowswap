@@ -185,7 +185,7 @@
     "mui-color-input": "^2.0.1",
     "multicodec": "^3.0.1",
     "multihashes": "^4.0.2",
-    "next": "15.0.4",
+    "next": "15.0.5",
     "next-sitemap": "^4.2.3",
     "node-cache": "^5.1.0",
     "polished": "^4.0.5",
@@ -239,7 +239,7 @@
     "use-count-up": "^2.2.5",
     "use-resize-observer": "^8.0.0",
     "viem": "^1.16.6",
-    "wagmi": "^1.2",
+    "wagmi": "^2.0.1",
     "web-vitals": "^2.1.4",
     "web3modal": "1.9.0"
   },
